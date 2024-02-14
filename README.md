@@ -27,13 +27,13 @@ pip install -r requirements.txt
 
 ## Usage
 To prepare the environment, run the following notebook:
-- prepare_environment.ipynb
+- preprocessing.ipynb
 
 To train the agent, run the following notebook:
-- train.ipynb
+- training.ipynb
 
 To test the agent, run the following notebook:
-- test.ipynb
+- testing.ipynb
 
 ## Results
 - The agent was able to learn to play the game and achieve a Total score of 21650.
