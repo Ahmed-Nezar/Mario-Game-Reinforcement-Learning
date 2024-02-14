@@ -8,6 +8,7 @@ The agent was trained for 5 million steps and was able to achieve a Total score 
 
 ![](./Others/Mario-Reinforcment-Learning.gif)
 
+
 ## Training
 The agent was trained using the following hyperparameters:
 
@@ -35,6 +36,8 @@ To test the agent, run the following notebook:
 - test.ipynb
 
 ## Results
-The agent was able to learn to play the game and achieve a Total score of 21650.
-The agent performed well on 3500000 million steps & was able to finish the first level.
-The agent started to overfit the environment after 3500000 million steps and the score started to decrease.
+- The agent was able to learn to play the game and achieve a Total score of 21650.
+
+- The agent performed well on 3500000 million steps & was able to finish the first level.
+
+- The agent started to overfit the environment after 3500000 million steps and the score started to decrease.
