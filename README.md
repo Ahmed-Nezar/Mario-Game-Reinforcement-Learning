@@ -8,11 +8,15 @@ The agent was trained for 5 million steps and was able to achieve a Total score 
 
 ![](./Others/Mario-Reinforcment-Learning.gif)
 
-## Training Parameters
+## Training
+The agent was trained using the following hyperparameters:
 
 - Total Timesteps: 5,000,000
 - Learning Rate: 0.0000003
 - number of steps per iteration: 2048
+
+The model was saved each 100,000 steps for evaluation.
+
 
 ## Installation
 To install the required packages, run the following command:
@@ -32,3 +36,5 @@ To test the agent, run the following notebook:
 
 ## Results
 The agent was able to learn to play the game and achieve a Total score of 21650.
+The agent performed well on 3500000 million steps & was able to finish the first level.
+The agent started to overfit the environment after 3500000 million steps and the score started to decrease.
