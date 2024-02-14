@@ -2,7 +2,7 @@
 
 ## Introduction
 This project is a reinforcement learning project that uses the PPO algorithm to train an agent to play the game Super Mario Bros. The game is played using the gym-super-mario-bros environment. The agent is trained using the stable-baselines3 library.
-The agent was trained for 5 million steps and was able to achieve a Total score of 21650.
+The agent was trained for 5 million steps and was able to achieve a Total score of 21,650.
 
 ### Mario Game after training the agent:
 
@@ -36,8 +36,8 @@ To test the agent, run the following notebook:
 - testing.ipynb
 
 ## Results
-- The agent was able to learn to play the game and achieve a Total score of 21650.
+- The agent was able to learn to play the game and achieve a Total score of 21,650.
 
-- The agent performed well on 3500000 million steps & was able to finish the first level.
+- The agent performed well on 3,500,000 million steps & was able to finish the first level.
 
-- The agent started to overfit the environment after 3500000 million steps and the score started to decrease.
+- The agent started to overfit the environment after 3,500,000 million steps and the score started to decrease.
