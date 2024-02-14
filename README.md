@@ -5,6 +5,7 @@ This project is a reinforcement learning project that uses the PPO algorithm to 
 The agent was trained for 5 million steps and was able to achieve a Total score of 21650.
 
 ### Mario Game after training the agent:
+
 ![](./Others/Mario-Reinforcment-Learning.gif)
 
 ## Training Parameters
